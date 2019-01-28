@@ -1,2 +1,12 @@
 *.class
 *.log
+/project/target/
+.idea/
+project/project/target/
+target/.history
+target/scala-2.12/coverage-report/
+target/scala-2.12/resolution-cache/
+target/scala-2.12/scoverage-data/
+target/scala-2.12/scoverage-report/
+target/streams/
+target/test-reports/
